@@ -1,0 +1,16 @@
+{
+  "name": "aulalab",
+  "version": "1.0.0",
+  "description": "Plataforma personal y privada de estudio y evaluación interactiva",
+  "scripts": {
+    "start": "npx serve . -l 3000"
+  },
+  "keywords": [
+    "study",
+    "quiz",
+    "supabase",
+    "education"
+  ],
+  "author": "Fabio Pillajo",
+  "license": "MIT"
+}
