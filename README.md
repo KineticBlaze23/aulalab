@@ -82,3 +82,4 @@ create policy "Usuarios gestionan sus propios datos de estudio"
 
 ## 🤖 Generación de Cuestionarios con IA
 Usa el botón **"Plantilla para IA"** dentro de cualquier materia para copiar el prompt estructurado y generar cuestionarios a partir de tus diapositivas o PDFs.
+
