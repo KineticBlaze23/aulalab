@@ -1,0 +1,20 @@
+# Dependencias y entornos
+node_modules/
+.env
+.env.local
+.env.*.local
+
+# Archivos del sistema operativo y logs
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*
+
+# Vercel y builds temporales
+.vercel
+.output
+dist/
+
+# Archivos temporales
+*.tmp
+*.bak
